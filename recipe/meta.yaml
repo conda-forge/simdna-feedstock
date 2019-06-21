@@ -1,6 +1,6 @@
 {% set name = "simdna" %}
-{% set version = "0.4.2" %}
-{% set sha256 = "0b16876b90a8628afc145a3b197017b134374da479e20d72c63fda2a30102c09" %}
+{% set version = "0.4.3.1" %}
+{% set sha256 = "01f329ab80fd7d834cbf9eaea88e77c9760f1a7756061feb2fe342b8a2695e7b" %}
 
 package:
   name: {{ name|lower }}
